@@ -8,8 +8,9 @@
 *.cmxs
 *.cmxa
 
-# ocamlbuild working directory
 _build/
+doc/
+.vscode/
 
 # ocamlbuild targets
 *.byte
